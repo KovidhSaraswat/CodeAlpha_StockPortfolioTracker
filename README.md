@@ -1,6 +1,4 @@
-### 2. `README.md` for `CodeAlpha_StockPortfolioTracker`
-
-```markdown
+CodeAlpha_StockPortfolioTracker
 # 📈 Stock Portfolio Tracker
 
 A financial calculation tool built in Python to manage stock holdings, calculate portfolio values, and export summary reports. Developed as part of the **CodeAlpha Python Programming Internship**.
